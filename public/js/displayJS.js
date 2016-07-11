@@ -2,7 +2,7 @@
  * Created by aitor on 10/7/16.
  */
 $(document).ready(function() {
-    var url = 'https://bip05.upc.es:5000';
+    var url = 'https://bip04.upc.es:5000';
     var route = [];
     var markers = [];
     var img = document.getElementById("frame");

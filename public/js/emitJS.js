@@ -93,7 +93,7 @@ $(document).ready(function() {
 
     /* SOCKET.IO */
 
-    var socket = io.connect('https://bip05.upc.es:5000');
+    var socket = io.connect('https://bip04.upc.es:5000');
 
     socket.on('connect', function () {
         log('connected');
